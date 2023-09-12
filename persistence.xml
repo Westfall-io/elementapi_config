@@ -210,7 +210,7 @@
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://postgresql-sysmlv2:5432/sysml2"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://postgresql-sysmlv2:5432/windstorm"/>
             <property name="javax.persistence.jdbc.user" value="postgres"/>
             <property name="javax.persistence.jdbc.password" value="mysecretpassword"/>
 
